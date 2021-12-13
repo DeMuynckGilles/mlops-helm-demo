@@ -460,6 +460,21 @@ entries:
   example-v2:
   - apiVersion: v2
     appVersion: "1.0"
+    created: "2021-12-13T16:20:14.482229608Z"
+    description: A Helm chart for Kubernetes
+    digest: 26f294cbf114cbbba9f7a7767699ed53f4012a760ebdd63ecf06d1a66c4718b8
+    home: https://helm.sh/helm
+    maintainers:
+    - email: nocontact@howest.be
+      name: Gilles De Muynck
+    name: example-v2
+    sources:
+    - https://github.com/helm/helm
+    urls:
+    - https://github.com/DeMuynckGilles/mlops-helm-demo/releases/download/example-v2-1.0.0/example-v2-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: "1.0"
     created: "2020-11-13T15:53:05.872231097Z"
     description: A Helm chart for Kubernetes
     digest: f962d422d830b2f3f25fb0f3e9618b4777c6733ea600837560ee99758a21d1f7
